@@ -3,5 +3,5 @@ all about insert key on mac
 
 
 ## midnight commander
-<CTRL>-T
+`<CTRL>-T`
   
