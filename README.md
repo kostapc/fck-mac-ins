@@ -1,5 +1,5 @@
-# fck-mac-ins
-all about insert key on mac
+# fckng mac insert key
+or "all about insert key on mac"
 
 ## console (SSH)
 `<fn>+<enter>`
